@@ -10,4 +10,15 @@ We use Jason Brownlee's tutorial (in Keras) as a source of inspiration and look 
     pandas
     scikit-learn
     seaborn
+    jupyter
 
+## How to
+
+- pip install the obove required libraries
+- Open terminal and cd to this root folder
+- Run jupyter notebook from the root folder
+- Open the human_activity_recognition.ipynb notebook
+- The notebook is fairly self explanatory.
+
+
+---
