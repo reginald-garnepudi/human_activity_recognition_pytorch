@@ -12,6 +12,8 @@ We use Jason Brownlee's tutorial (in Keras) as a source of inspiration and look 
     seaborn
     jupyter
 
+    tensorflow 2.1 (if you are running the tensorflow notebook)
+
 ## How to
 
 - pip install the obove required libraries
